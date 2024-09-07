@@ -3,6 +3,7 @@
 ## 🧑‍💻 Kurulum
 - Backend klasörünün içerisindeki `install-modules.bat` dosyasını çalıştırın ve modülleri indirin.
 - `start.bat` adlı dosyayı başlatın ve backend hazır!
+- `config.json` dosyasını doludurun apikey kısmını backend klasöründeki apikey.txt'den alabilirsiniz.
 - Frontend klasörünün içerisindeki dosyaları github'a yükleyin.
 - [Vercel](https://vercel.com)'e gidin kayıt olduktan sonra `Add new` butonuna basın çıkan menüden `project`'e basın `Import Git Repository` kısmından github reponuzu seçin ve projeniz hazır!
 
