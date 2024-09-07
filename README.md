@@ -1,6 +1,5 @@
 # discord-bot-admin-panel
 
-### Geliştirilme aşamasındadır
 
 ## 🧑‍💻 Kurulum
 - Backend klasörünün içerisindeki `install-modules.bat` dosyasını çalıştırın ve modülleri indirin.
