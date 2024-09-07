@@ -1,0 +1,35 @@
+{
+  "name": "discord-bot-admin-panel",
+  "version": "1.0.0",
+  "description": "Discord bot admin panel.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wondexz/discord-bot-admin-panel.git"
+  },
+  "keywords": [
+    "Discord",
+    "Discord.js",
+    "Panel"
+  ],
+  "author": "wondexz",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "path": "^0.12.7",
+    "uuid": "^10.0.0",
+    "wondexzdb": "^4.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/wondexz/discord-bot-admin-panel/issues"
+  },
+  "homepage": "https://github.com/wondexz/discord-bot-admin-panel#readme"
+}
