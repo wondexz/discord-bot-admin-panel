@@ -9,7 +9,7 @@
 - [Vercel](https://vercel.com)'e gidin kayıt olduktan sonra `Add new` butonuna basın çıkan menüden `project`'e basın `Import Git Repository` kısmından github reponuzu seçin ve projeniz hazır!
 
 ## 🟢 Kendime yetki nasıl veririm?
-- "http://localhost/auth/register?apikey=(apikey.txt dosyasındaki apikeyi girin)&username=kullaniciadi&password=sifre" adresine gidin ve yetkiniz verildi!
+- "http://localhost/auth/register?apikey=(apikey.txt.dosyasındaki.apikeyi.girin)&username=kullaniciadi&password=sifre" adresine gidin ve yetkiniz verildi!
 
 ## 📷 Görüntüler
 ![image](https://github.com/user-attachments/assets/92e1d2fa-25a6-4da7-95da-3a11371f9107)
